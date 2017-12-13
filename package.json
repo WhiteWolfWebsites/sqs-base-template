@@ -6,7 +6,7 @@
   "license": "SEE LICENSE IN LICENSE.txt",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Squarespace/base-template.git"
+    "url": "https://github.com/WhiteWolfWebsites/sqs-base-template.git"
   },
   "scripts": {
     "build": "squarespace assemble && webpack",
@@ -45,6 +45,6 @@
     "webpack": "^1.14.0"
   },
   "squarespace": {
-    "templateId": "base-template"
+    "templateId": "wolf-base"
   }
 }
